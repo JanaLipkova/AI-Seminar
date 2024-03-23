@@ -24,7 +24,7 @@ Join us to gain insights from leading experts in academia, industry, and healthc
 ## Speakers
 | Day | Speaker(s) | Affiliation | Talk Title | Short Description | Poster | Recording |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
-| April 5th   |  Dr. [Jana Lipkova](http://octopath.org/jana.html) | [UCI, Dept. of Pathology](https://www.pathology.uci.edu/), CA| Intro: AI & Pathology, AI in Cardiac Transplant | Introduction to pathology data, related AI methods, followed by presentation of AI model for cardiac transplant surgery applications 🔬🫀. | [link](link) | 
+| April 5th   |  Drs. [Jana Lipkova](http://octopath.org/jana.html), [William H. Yong](https://faculty.sites.uci.edu/whyonglab/about-dr-yong/) | [UCI, Dept. of Pathology](https://www.pathology.uci.edu/), CA| Welcome! Intro: AI & Pathology, AI in Cardiac Transplant | Introduction to pathology data, related AI methods, followed by presentation of AI model for cardiac transplant surgery applications 🔬🫀. | [link](link) | 
 | April 19th  | Drs. [Marilyn Bui](https://www.moffitt.org/providers/marilyn-bui/), [Myles McCary](https://www.linkedin.com/in/mylesmccrary/), [Amanda Hermann](https://twitter.com/HerrPath)  | [Moffitt Cancer Center](https://www.moffitt.org/), FL | Adventures in Digital Path & AI - Clinicians perspective| Director of the Analytic Microscopy Core at Moffitt Cancer Center, expert on AI and digital pathology, Dr. Bui and her residences, will provide interactive talk about their clinical perspective and experiences on AI in pathology ⚕️🎉.| | |
 | May 3rd     | TBD   | PathAI | Industry |
 | May 17th    | TBD   |  | Physician Scientist|

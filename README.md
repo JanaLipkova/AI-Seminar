@@ -2,8 +2,9 @@
 
 # AI in Pathology Seminar 🔬🧬
 
+
 <div>
-    <img src="data/seminar_logo.jpg" alt="Image" style="float: left; margin-right: 10px;" />
+    <img src="data/seminar_logo.jpg" alt="Image" style="float: left; margin-right: 10px;" width='300'/>
     <p>Welcome to the AI in Pathology, bi-weekly seminar hosted by the University in California, Irvine, [Department of Pathology](https://www.pathology.uci.edu/index.asp/), dedicated to everyone interested, artificial Intelligence, pathology, medicine and beyond.
 
 Join us to gain insights from leading experts in academia, industry, and healthcare as they showcase their pioneering research, experience with AI integration in medicine, and illuminate their career pathways that led them to the forefront of AI in healthcare. We aim to educate and inspire young researchers, especially females, to explore exciting career and research opportunities in AI and healthcare. The seminar is targeted for broad audience, including computer science, engineering, school of medicine and biomedical science.</p>

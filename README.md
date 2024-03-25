@@ -18,7 +18,7 @@ Join us to gain insights from leading experts in academia, industry, and healthc
 * **Frequency:** bi-weekly, always on Friday
 * **Location:** [virtual]
 * **To attend please [register](https://forms.gle/AFxvbwgS7JeCKuGn8)**
-* For questions and inquiries please reach to us [here](mailto:antartiqcpath@gmail.com)
+* For questions and inquiries please reach to us [here](mailto:antartiqcpath@gmail.com,jlipkova@hs.uci.edu)
 
 
 ## Speakers

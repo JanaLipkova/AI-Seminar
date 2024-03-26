@@ -1,4 +1,4 @@
-![This is an alt text.](/data/SeminarHeader.jpg "This is a sample image.")
+![This is an alt text.](/data/SeminarHeader.png "This is a sample image.")
 
 # AI in Pathology Seminar 🔬🧬
 

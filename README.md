@@ -15,7 +15,7 @@ Join us to gain insights from leading experts in academia, industry, and healthc
 
 * **Summer schedule:** April 5th, 2024 - June 28th, 2024
 * **Time:** 2-3pm PST 
-* **Frequency:** bi-weekly, always on Friday
+* **Frequency:** every 2nd Friday
 * **Location:** [virtual]
 * **To attend please [register](https://forms.gle/AFxvbwgS7JeCKuGn8)**
 * For questions and inquiries please reach to us [here](mailto:antartiqcpath@gmail.com,jlipkova@hs.uci.edu)

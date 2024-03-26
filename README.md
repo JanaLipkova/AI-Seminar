@@ -25,10 +25,10 @@ Join us to gain insights from leading experts in academia, industry, and healthc
 | Day | Speaker(s) | Affiliation | Talk Title | Short Description | Poster | Recording |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
 | April 5th   |  Drs. [Jana Lipkova](http://octopath.org/jana.html), [William H. Yong](https://faculty.sites.uci.edu/whyonglab/about-dr-yong/) | [UCI, Dept. of Pathology](https://www.pathology.uci.edu/), CA| Welcome! Intro: AI & Pathology, AI in Cardiac Transplant | Introduction to pathology data, related AI methods, followed by presentation of AI model for cardiac transplant surgery applications 🔬🫀. | [link](link) | 
-| April 19th  | Drs. [Marilyn Bui](https://www.moffitt.org/providers/marilyn-bui/), [Myles McCary](https://www.linkedin.com/in/mylesmccrary/), [Amanda Hermann](https://twitter.com/HerrPath)  | [Moffitt Cancer Center](https://www.moffitt.org/), FL | Adventures in Digital Path & AI - Clinicians perspective| Director of the Analytic Microscopy Core at Moffitt Cancer Center, expert on AI and digital pathology, Dr. Bui and her residences, will provide interactive talk about their clinical perspective and experiences on AI in pathology ⚕️🎉.| | |
-| May 3rd     | [Dr. Andrew Song](https://andrewhsong.wordpress.com/)   | [Harvard Medical School](https://faisal.ai/) | Towards 3D pathology – The opportunities and challenges | Using AI to expand pathology into 3D for better diagnostic predictions and novel biomerker discovery 😲⭐🔬| | |
-| May 17th    | TBD   |  | Physician Scientist|
-| May 31th    | TBD   | |TBD |
+| April 19th  | Drs. [Marilyn Bui](https://www.moffitt.org/providers/marilyn-bui/), [Myles McCary](https://www.linkedin.com/in/mylesmccrary/), [Amanda Hermann](https://twitter.com/HerrPath)  | [Moffitt Cancer Center](https://www.moffitt.org/), FL | Adventures in Digital Path & AI - Clinicians perspective| Director of the Analytic Microscopy Core at Moffitt Cancer Center, expert on AI and digital pathology, Dr. Bui and her residences, will provide interactive talk about their clinical perspective and experiences on AI in pathology ⚕️🔬⭐.| | |
+| May 3rd     | [Dr. Andrew Song](https://andrewhsong.wordpress.com/)   | [Harvard Medical School](https://hms.harvard.edu/) [AI for Pathology Lab](https://faisal.ai/) | Towards 3D pathology – The opportunities and challenges | Using AI to expand pathology into 3D for better diagnostic predictions and novel biomerker discovery 😲⭐🔬| | |
+| May 17th    | TBD   |  | TBD|
+| May 31th    | [Drew FK Williamson](https://www.dfkw.io/)   |  [Emory University School of Medicine](https://med.emory.edu/)|TBD | Board certified pathologist leading reasearch lab focussed on AI in pathology. Insights on Physician-Scientists career path ⚕️🔬⭐|
 | June 14th   | TBD   | | TBD |
 | June 28th   | TBD   | | TBD |
 

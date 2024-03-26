@@ -8,8 +8,6 @@ Welcome to the AI in Pathology, bi-weekly seminar hosted by the University in Ca
 
 Join us to gain insights from leading experts in academia, industry, and healthcare as they showcase their pioneering research, experience with AI integration in medicine, and illuminate their career pathways that led them to the forefront of AI in healthcare. We aim to educate and inspire young researchers, especially females, to explore exciting career and research opportunities in AI and healthcare. The seminar is targeted for a broad audience including undergraduate, graduate, medical students and it spans across computer science, engineering, informatics, biomedical sciences, pathology and medicine.  
 <br>
-<br>
-<br>
 
 ## Schedule and Agenda from Summer 2024
 

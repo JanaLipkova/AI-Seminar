@@ -26,7 +26,7 @@ Join us to gain insights from leading experts in academia, industry, and healthc
 | April 19th  | Drs. [Marilyn Bui](https://www.moffitt.org/providers/marilyn-bui/), [Myles McCary](https://www.linkedin.com/in/mylesmccrary/), [Amanda Hermann](https://twitter.com/HerrPath)  | [Moffitt Cancer Center](https://www.moffitt.org/) | Adventures in Digital Path & AI - Clinicians perspective| Director of the Analytic Microscopy Core at Moffitt Cancer Center, expert on AI and digital pathology, Dr. Bui and her residences, will provide interactive talk about their clinical perspective and experiences on AI in pathology ⚕️🔬⭐.| | 
 | May 3rd     | [Dr. Andrew Song](https://andrewhsong.wordpress.com/)   | [Harvard Medical School](https://hms.harvard.edu/), [AI for Pathology Lab](https://faisal.ai/) | Towards 3D pathology – The opportunities and challenges | Using AI to expand pathology into 3D for better diagnostic predictions and novel biomerker discovery 😲⭐🔬| | 
 | May 17th    | TBD   |  | TBD|
-| May 31th    | [Drew FK Williamson](https://www.dfkw.io/)   |  [Emory University School of Medicine](https://med.emory.edu/)|TBD | Board certified pathologist leading reasearch lab focussed on AI in pathology. Insights on Physician-Scientists career path ⚕️🔬⭐|
+| May 31th    | [Drew FK Williamson](https://www.dfkw.io/)   |  [Emory University School of Medicine](https://med.emory.edu/)|TBD | Board certified pathologist leading reasearch lab focussed on AI in pathology, Dr. Williamson, will provide insights on Physician-Scientists career path and cutting edge AI research⚕️🔬⭐.|
 | June 14th   | TBD   | | TBD |
 | June 28th   | TBD   | | TBD |
 

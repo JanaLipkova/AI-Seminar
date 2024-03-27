@@ -6,7 +6,7 @@
 
 Welcome to the AI in Pathology, bi-weekly seminar hosted by the University in California, Irvine, [Dept. of Pathology](https://www.pathology.uci.edu/index.asp/), dedicated to everyone interested, Artificial Intelligence, pathology, medicine and beyond.
 
-Join us to gain insights from leading experts in academia, industry, and healthcare as they showcase their pioneering research, experience with AI integration in medicine, and illuminate their career pathways that led them to the forefront of AI in healthcare. We aim to educate and inspire young researchers, especially females, to explore exciting career and research opportunities in AI and healthcare. The seminar is targeted for a broad audience from undergrads, premeds, graduate and medical student/residtens, postdocs/fellows to faculty, and it spans across computer science, engineering, informatics, biomedical sciences, pathology and medicine.  
+Join us to gain insights from leading experts in academia, industry, and healthcare as they showcase their pioneering research, experience with AI integration in medicine, and illuminate their career pathways that led them to the forefront of AI in healthcare. We aim to educate and inspire young researchers, especially females, to explore exciting career and research opportunities in AI and healthcare. The seminar is targeted for a broad audience including undergrads, premeds, graduate and medical students, residents/postdocs/fellows and faculty across computer science, engineering, informatics, biomedical sciences, pathology, and medicine. 
 <br>
 
 ## Schedule and Agenda from Summer 2024
